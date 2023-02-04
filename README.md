@@ -8,7 +8,7 @@ Apni Kaksha C - Tutorial
 </h1>
 
 <p align="center">
-  <a href="https://youtu.be/irqbmMNs2Bo">Course Link</a>
+  <a href="https://youtu.be/irqbmMNs2Bo">Course Link</a> | <a href="https://drive.google.com/drive/folders/1MkwoU52eEXDVu1KDy7U1qzKF0wMKane_">HSet Link</a>
 </p>
 
 
@@ -21,5 +21,5 @@ For Reference Only
 Click into each folder to find the solution to every HSet. 
 <br>Kindly keep in mind about the academic honesty as per course policy. 
 
-Finished on 05/02/2023!
+Finished on 04/02/2023!
 </p>
