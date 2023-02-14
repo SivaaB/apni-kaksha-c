@@ -12,7 +12,7 @@ Apni Kaksha C - Tutorial
 </p>
 
 
-## Works
+## Works:
 
 <pre align="center">
 For Reference Only
